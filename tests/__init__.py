@@ -1,0 +1,1 @@
+"""Loop generator test suite."""

@@ -1,0 +1,1 @@
+"""Loop generator Python package."""
